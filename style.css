@@ -1,0 +1,15 @@
+h4 {
+  color:green;
+  font-family:comic sans ms;
+  padding:30px
+}
+img {
+  border: 5px solid purple;
+  margin-left:100px
+}
+body {
+  background-color:#ffe6ff;
+}
+p {
+  color:#004d00;
+}
